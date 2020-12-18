@@ -12,7 +12,7 @@ class Config:
     MAIL_USE_TLS = False
     MAIL_USE_SSL = True
     MAIL_USERNAME = 'planetmoses12@gmail.com'
-    MAIL_PASSWORD = 'Lahaja40'
+    MAIL_PASSWORD = 'xxxxxx'
 
 class ProdConfig(Config):
     SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
