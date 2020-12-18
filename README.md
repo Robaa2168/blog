@@ -61,7 +61,7 @@ After extracting the files,
 * As a writer, I would like to update or delete blogs I have created.
 
 ## Test Credentials
-* username: Robert
+* username: robaa40
 * Password: 12345
 
 ## License
