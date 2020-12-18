@@ -32,7 +32,8 @@ After extracting the files,
 
 3. Activating the virtual environment
 >``source virtual/bin/activate.``
-
+>``<virtual-name>\Scripts\activate``
+ 
 4. Running the application
 >``python manage.py runserver``
 
