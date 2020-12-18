@@ -62,7 +62,7 @@ After extracting the files,
 
 ## Test Credentials
 * username: robaa40
-* Password: 12345
+* Password: Lahaja50
 
 ## License
 > MIT License &copy; 2020 ROBERT KIPKOECH
