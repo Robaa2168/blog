@@ -59,6 +59,7 @@ After extracting the files,
 * As a writer, I would also like to create a blog from the application.
 * As a writer, I would like to delete comments that I find insulting or degrading.
 * As a writer, I would like to update or delete blogs I have created.
+* As a writer, I would like to Logout of my account.
 
 ## Test Credentials
 * username: robaa40
