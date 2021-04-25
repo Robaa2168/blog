@@ -15,10 +15,10 @@ The following command installs all the application requirements
 >``pip install -r requirements.txt``
 
 
-## Installations
+> ## Installations
 
-Run 
-``https://github.com/Robaa2168/blog.git``
+> Run 
+> ``https://github.com/Robaa2168/blog.git``
 
 or download the zip file from github.
 
