@@ -42,10 +42,10 @@ After extracting the files,
  > ``python manage.py test.``
 
 
-## Technologies used
-* Python3.9
-* Flask
-* Html5
+> ## Technologies used
+> * Python3.9
+> * Flask
+> * Html5
 * Css
 * Bootstrap4
 
